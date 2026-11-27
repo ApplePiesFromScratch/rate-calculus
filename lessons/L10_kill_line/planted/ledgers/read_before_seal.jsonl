@@ -1,0 +1,2 @@
+{"files": {"lessons/work/L10_KILL_LINES.md": "badbd64eadeab693bf7b10fb2e1df217a282c227187fab61a6f6ce39e0db5c97"}, "kind": "read", "n": 1, "prev": "", "t": "2026-11-27T14:00:00+1300", "text": "L10 sealed read: threshold 33: tune 181/200, sealed 176/200"}
+{"files": {"lessons/work/L10_KILL_LINES.md": "badbd64eadeab693bf7b10fb2e1df217a282c227187fab61a6f6ce39e0db5c97"}, "kind": "seal", "n": 2, "prev": "4a3481707087379a10405cb843796586684c79c253fc6e5206309e63a5b89c04", "t": "2026-11-27T14:00:00+1300", "text": "sealed L10_KILL_LINES.md"}

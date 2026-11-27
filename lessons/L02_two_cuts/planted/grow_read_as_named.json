@@ -1,0 +1,1 @@
+{"rate(rope,A)": {"naming": "moves", "direction": "stays", "seed": "stays", "scale": "stays"}, "rate(B,A)": {"naming": "stays", "direction": "stays", "seed": "stays", "scale": "stays"}, "grow": {"naming": "moves", "direction": "stays", "seed": "moves", "scale": "stays"}, "when": {"naming": "stays", "direction": "stays", "seed": "moves", "scale": "stays"}}

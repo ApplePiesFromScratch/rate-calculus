@@ -1,0 +1,3 @@
+# files tools/wordlint.py skips, each with its reason
+book/EVERY_NUMBER_IS_A_RULE.md   # James Pugmire's text (Parts I-IV verbatim) and Part V: names refused words only to refuse them
+lessons/L11_dereify/planted/refused_word.md   # a planted fault: it must hold a refused word for the checker to catch
